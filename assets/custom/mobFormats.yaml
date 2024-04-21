@@ -1,0 +1,33 @@
+creeper:
+  id: 1
+  lightLevel: 0
+  entityPicture: creeper
+  entityModel: creeper
+zombie
+  id: 2
+  lightLevel: 0
+  entityPicture: zombie
+  entityModel: default
+pig:
+  id: 3
+  lightLevel: 0
+  entityPicture: pig
+  entityModel: pig
+entity:
+  id: 4
+  lightLevel: 0
+  entityPicture: char
+  entityModel: default
+monster:
+  id: 5
+  lightLevel: 0
+  entityPicture: char
+  entityModel: default
+skeleton:
+  id: 6
+  lightLevel: 0
+  entityPicture: skeleton
+  entityModel: skeleton
+# Entities start at 8,000
+
+ 
