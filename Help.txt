@@ -1,0 +1,16 @@
+Some useful controls:
+
+- F4 - Switch gamemode: Survival/Creative
+- F5 - Poses the player/red entity
+- F10 - Quick save and exit
+- // - Type double slash to type a command
+
+Some commands:
+
+/give [player] [item]: Give a player an item
+/setTime [time]: Set the time in between 0-2400
+/generateCubemap: Generates a cubemap where the player is currently at
+/doDaylightCycle [true|false]: Toggles the daylight cycle
+/reloadShaders: reloads all the shaders.
+/screenshot: Takes a screenshot and saves it to %appdata%/.minecraftClone/screenshots if you are on Windows or ~/.minecraftClone/screenshots if you are on Linux.
+/regenerateWorld: Regenerate the world. This is useful if you are messing around with terrain stuff.
