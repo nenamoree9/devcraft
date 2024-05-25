@@ -16,8 +16,13 @@ Reminder: All re-skins or mods you make have to be OPEN SOURCE. Do not make your
 ----Minecraft Week (0.1)----
 
 First, do the same process you will do when you download a Devcraft version.
-Next, open the Res folder.
-There are 3 folders;
+There are 2 folders in the root of the Devcraft version folder;
+- Res
+- Shaders
+
+The "Res" folder is
+
+There are 3 folders inside the Res folder;
 - Blocks
 - Fonts
 - Textures
@@ -25,3 +30,8 @@ There are 3 folders;
 The "Blocks" folder is where block metadata is stored in. The blocks' metadata file is a ".block" file.
 The "Fonts" folder is where all the fonts are stored in. Usually, the fonts are .ttf files. (Note: When editing or replacing fonts, they SHOULD always have the name "rs.ttf".
 The "Textures" folder is where all the game's textures are stored in.
+
+----HopsonCraft (0.2 - Alpha 1.2)----
+
+Once again, download the version you want and extract the .zip file.
+However, the Res and Shaders folders
