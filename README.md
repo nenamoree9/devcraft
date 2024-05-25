@@ -27,11 +27,29 @@ There are 3 folders inside the Res folder;
 - Fonts
 - Textures
 
-The "Blocks" folder is where block metadata is stored in. The blocks' metadata file is a ".block" file.
+The "Blocks" folder is where block metadata is stored in. The blocks' metadata file format is a ".block" file.
 The "Fonts" folder is where all the fonts are stored in. Usually, the fonts are .ttf files. (Note: When editing or replacing fonts, they SHOULD always have the name "rs.ttf".
 The "Textures" folder is where all the game's textures are stored in.
 
 ----HopsonCraft (0.2 - Alpha 1.2)----
 
 Once again, download the version you want and extract the .zip file.
-However, the Res and Shaders folders
+In HopsonCraft, the Res and Shaders folders that were in the root of the version folder were now merged to become the Data folder
+From 0.2 to 0.3, there are 5 folders;
+- Blocks
+- Fonts
+- Music
+- Shaders
+- Textures
+
+An additional folder was added in 0.4 called "WorldGen".
+So there are now 6 folders;
+- Blocks
+- Fonts
+- Music
+- Shaders
+- Textures
+- WorldGen
+
+The Blocks folder is where block metadata is stored in. From 0.2 to 0.3, The blocks' metadata file format was a .json file. In 0.4 and later, it was reverted to a .block file just like in 0.1. The Fonts folder is where fonts are stored in. Just like in 0.1, they SHOULD ALWAYS have the name "rs.ttf".
+
