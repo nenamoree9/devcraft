@@ -19,6 +19,7 @@ There are 3 folders;
 - Blocks
 - Fonts
 - Textures
+
 The "Blocks" folder is where block metadata is stored in. The blocks' metadata file is a ".block" file.
 The "Fonts" folder is where all the fonts are stored in. Usually, the fonts are .ttf files. (Note: When editing or replacing fonts, they SHOULD always have the name "rs.ttf".
 The "Textures" folder is where all the game's textures are stored in.
