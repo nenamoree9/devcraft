@@ -11,6 +11,8 @@ How to download and start playing Devcraft:
 
 How to mod/reskin Devcraft:
 
+Reminder: All re-skins or mods you make have to be OPEN SOURCE. Do not make your re-skins/mods closed source.
+
 ----Minecraft Week (0.1)----
 
 First, do the same process you will do when you download a Devcraft version.
