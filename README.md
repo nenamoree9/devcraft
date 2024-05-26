@@ -51,5 +51,18 @@ So there are now 6 folders;
 - Textures
 - WorldGen
 
-The Blocks folder is where block metadata is stored in. From 0.2 to 0.3, The blocks' metadata file format was a .json file. In 0.4 and later, it was reverted to a .block file just like in 0.1. The Fonts folder is where fonts are stored in. Just like in 0.1, they SHOULD ALWAYS have the name "rs.ttf". The Music folder is where all the music files are stored in. (For some reason
+The Blocks folder is where block metadata is stored in. From 0.2 to 0.3, The blocks' metadata file format was a .json file. In 0.4 and later, it was reverted to a .block file just like in 0.1. The Fonts folder is where fonts are stored in. Just like in 0.1, they SHOULD ALWAYS have the name "rs.ttf". The Music folder is where all the music files are stored in. The Shaders folder is where all the shaders are stored in. The Textures folder is where all of the games textures are stored in, everything from the block atlases, to the GUI. In Alpha 1.0, there are more texture atlases than what there was before. The WorldGen folder is where terrain generation stuff is stored in.
+
+----Crumble (>Alpha 1.2)----
+
+The Data folder that was in HopsonCraft was renamed to assets.
+Inside the assets folder are 5 folders;
+- custom
+- fonts
+- generated
+- images
+- shaders
+
+
+
 
