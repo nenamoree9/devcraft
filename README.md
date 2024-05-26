@@ -61,6 +61,17 @@ Inside the assets folder are 5 folders;
 - images
 - shaders
 
+The "custom" folder is where miscellaneous assets are stored in. The things that are stored in this folder are;
+- blockFormats.yaml
+- craftingRecipes.yaml
+- mobFormats.yaml (unused)
+- terrainNoise.yaml
+
+By the way, .yaml files can be editied using a text editor.
+"blockFormats.yaml" is where block metadata is stored in. Usually, blocks have an ID. "craftingRecipes.yaml" is where crafting recipe metadata is stored in. "terrainNoise.yaml" is where the terrain noise is stored in.
+
+The "fonts" folder is where fonts are stored in. By default, they should have the name "Minecraft.ttf". This can be changed in the code.
+
 
 
 
