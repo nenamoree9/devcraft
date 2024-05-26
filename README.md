@@ -51,5 +51,5 @@ So there are now 6 folders;
 - Textures
 - WorldGen
 
-The Blocks folder is where block metadata is stored in. From 0.2 to 0.3, The blocks' metadata file format was a .json file. In 0.4 and later, it was reverted to a .block file just like in 0.1. The Fonts folder is where fonts are stored in. Just like in 0.1, they SHOULD ALWAYS have the name "rs.ttf".
+The Blocks folder is where block metadata is stored in. From 0.2 to 0.3, The blocks' metadata file format was a .json file. In 0.4 and later, it was reverted to a .block file just like in 0.1. The Fonts folder is where fonts are stored in. Just like in 0.1, they SHOULD ALWAYS have the name "rs.ttf". The Music folder is where all the music files are stored in. (For some reason
 
