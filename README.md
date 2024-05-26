@@ -14,6 +14,7 @@ How to mod/reskin Devcraft:
 Reminder: All re-skins or mods you make have to be OPEN SOURCE. Do not make your re-skins/mods closed source.
 
 ----Minecraft Week (0.1)----
+
 There are 2 folders in the root of the Devcraft version folder;
 - Res
 - Shaders
@@ -30,7 +31,8 @@ The "Fonts" folder is where all the fonts are stored in. Usually, the fonts are 
 The "Textures" folder is where all the game's textures are stored in.
 
 ----HopsonCraft (0.2 - Alpha 1.2)----
-In HopsonCraft, the Res and Shaders folders that were in the root of the version folder were now merged to become the Data folder
+
+In HopsonCraft, the Res and Shaders folders that were in the root of the version folder were now merged to become the Data folder.
 From 0.2 to 0.3, there are 5 folders;
 - Blocks
 - Fonts
