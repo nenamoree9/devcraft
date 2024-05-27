@@ -19,7 +19,8 @@ There are 2 folders in the root of the Devcraft version folder;
 - Res
 - Shaders
 
-The "Res" folder is where all the assets are stored in. Shaders is where the shaders are stored in.
+The "Res" folder is where all the assets are stored in. 
+Shaders is where the shaders are stored in.
 
 There are 3 folders inside the Res folder;
 - Blocks
