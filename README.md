@@ -81,7 +81,11 @@ By the way, .yaml files can be editied using a text editor.
 
 The "fonts" folder is where fonts are stored in. By default, they should have the name "Minecraft.ttf". This can be changed in the code.
 
-The "gene
+The "generated" folder is where all spritesheets are stored in except for the gui spritesheet.
+
+The "images" folder are where all textures are stored in.
+
+The "shaders" folder has shader code.
 
 
 
